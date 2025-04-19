@@ -1,30 +1,28 @@
 ☕ Coffee Orders Interactive Excel Dashboard
-An interactive and user-friendly Excel dashboard designed to analyze coffee order data efficiently. It helps visualize trends, monitor key metrics, and filter information with ease.
+An interactive and user-friendly Excel dashboard to analyze coffee order data efficiently. It helps visualize trends, monitor metrics, and filter insights with ease.
 
 Features
 ✅ Data Aggregation
-    — Used INDEX-MATCH and XLOOKUP to fetch and organize data
-    — Ensured accurate and dynamic handling of multiple data sources
+    — Used INDEX-MATCH and XLOOKUP for dynamic and accurate data handling
 
 ✅ Pivot Table Analysis
-    — Summarized key metrics such as:
+    — Summarized key metrics:
         • Total Sales
-        • Sales as per country
-        • Top customer for the business
+        • Sales by Country
+        • Top Customers
 
 ✅ Interactive Dashboard
-    — Added slicers for quick filtering:
+    — Added slicers for:
         📅 Timeline
         🎟️ Loyalty Card
         ☕ Coffee Type
         🌿 Roast Type
 
 ✅ Visual Representation
-    — Used Pivot Charts to display data clearly
-    — Dashboard responds instantly to slicer selections
-    — Used Line charts to show trend overtime
+    — Used Pivot and Line Charts for clear trend analysis
+    — Instant updates via slicers
 
 Benefits
-✅ Simplifies data exploration and reporting
-✅ Easy filtering for detailed analysis
-✅ Helps understand customer behavior and product performance
+✅ Quick and easy data exploration
+✅ Flexible filtering for deeper insights
+✅ Understand customer trends at a glance
